@@ -11,7 +11,8 @@ __plugin_meta__ = PluginMetadata(
     description="随机获取一张涩图",
     type="application",
     homepage="https://github.com/zhongwen-4/nonebot-plugin-picsetu",
-    supported_adapters={"~onebot.v11"}
+    supported_adapters={"~onebot.v11"},
+    usage="发送[setu, 涩图, 色图]任意一个就可以获取图片啦"
 )
 
 
